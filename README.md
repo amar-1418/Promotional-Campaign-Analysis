@@ -1,4 +1,8 @@
 Retail Promotion Impact Analysis
+
+Dash Board Link 👇
+https://app.powerbi.com/groups/a5ef6778-b007-46f2-afdf-fdc60e352e8c/reports/372c7b3c-8c7e-4351-b959-3d04d03dea9c/e77a92150bdea6a202c4?experience=power-bi
+
 ![image alt](https://github.com/amar-1418/Promotional-Campaign-Analysis/blob/33923679544e426a612c138cfa2c61bc1e0b2110/link.png)
 
 📌 Project Overview
