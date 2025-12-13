@@ -1,5 +1,5 @@
 Retail Promotion Impact Analysis
-![image alt]()
+![image alt](https://github.com/amar-1418/Promotional-Campaign-Analysis/blob/33923679544e426a612c138cfa2c61bc1e0b2110/link.png)
 
 📌 Project Overview
 This project analyzes retail promotional campaign performance to understand how different promotion strategies impact incremental revenue, incremental units sold, and overall sales lift.
